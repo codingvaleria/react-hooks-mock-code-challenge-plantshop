@@ -41,6 +41,75 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "": "0.03",
+      "id": 8
+    },
+    {
+      "": "0.03",
+      "id": 9
+    },
+    {
+      "": "0.03",
+      "name": "ddsds",
+      "image": "dasaas",
+      "price": "0.04",
+      "id": 10
+    },
+    {
+      "name": "vvvv",
+      "image": "saff",
+      "price": "0.03",
+      "id": 11
+    },
+    {
+      "name": "asafasfa",
+      "image": "https://images.unsplash.com/photo-1617938544737-cf7b41829226?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "price": "0.06",
+      "id": 12
+    },
+    {
+      "name": "asafasfa",
+      "image": "sdffsdgadg",
+      "price": "0.03",
+      "id": 13
+    },
+    {
+      "name": "asafasfa",
+      "image": "sdffsdgadg",
+      "price": "0.03",
+      "id": 14
+    },
+    {
+      "name": "fefwefwe",
+      "image": "sdffsdgadg",
+      "price": "0.02",
+      "id": 15
+    },
+    {
+      "name": "fefwefwe",
+      "image": "sdffsdgadg",
+      "price": "0.05",
+      "id": 16
+    },
+    {
+      "name": "fefwefwe",
+      "image": "sdffsdgadg",
+      "price": "0.05",
+      "id": 17
+    },
+    {
+      "name": "fefwefwe",
+      "image": "sdffsdgadg",
+      "price": "0.05",
+      "id": 18
+    },
+    {
+      "name": "asafasfa",
+      "image": "ssss",
+      "price": "0.05",
+      "id": 19
     }
   ]
 }
