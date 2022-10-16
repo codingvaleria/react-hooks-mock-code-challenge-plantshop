@@ -19,10 +19,15 @@ function PlantPage() {
     });
   }
 
+  function handleSearching(search){
+    setPlants(plants.filter(plant=> plant.name.toLowerCase().includes(search)))
+  }
+ 
+
   return (
     <main>
       <NewPlantForm handleAddPlant={handleAddPlant} />
-      <Search />
+      <Search onSearching={handleSearching}/>
       <PlantList plants={plants} />
     </main>
   );
